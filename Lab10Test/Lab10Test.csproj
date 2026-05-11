@@ -30,6 +30,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Lab9\Lab9.csproj" />
     <ProjectReference Include="..\Lab10\Lab10.csproj" />
+    <ProjectReference Include="..\Lab9\Lab9.csproj" />
   </ItemGroup>
 
   <ItemGroup>
